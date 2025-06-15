@@ -382,11 +382,6 @@ padding: 1em 2em;
 
 }
 
-
-.footer-socials a:hover img {
-  filter: brightness(0.8) invert(0.7) sepia(1) hue-rotate(70deg) saturate(5);
-}
-
 .footer-bottom {
   font-size: 0.92rem;
   color: #7bdba5;
