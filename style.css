@@ -28,7 +28,7 @@ body {
 .logo {
   font-weight: bold;
   font-size: 1.5rem;
-  color: #10C46D;
+  color: #00DB00;
   letter-spacing: 1px;
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 .nav a:hover {
-  color: #10C46D;
+  color: #00DB00;
 }
 
 .header .container {
@@ -85,7 +85,7 @@ body {
 }
 
 .hero-text h1 span {
-  color: #10C46D;
+  color: #00DB00;
 }
 
 .hero-text p {
@@ -94,7 +94,7 @@ body {
 }
 
 .btn {
-  background: #10C46D;
+  background: #00DB00;
   color: #fff;
   padding: 0.75rem 2rem;
   border: none;
@@ -106,7 +106,7 @@ body {
 }
 
 .btn:hover {
-  background: #0ea65e;
+  background: #00DB00;
 }
 
 .about {
@@ -139,7 +139,7 @@ body {
 }
 
 .about-info h2 {
-  color: #10C46D;
+  color: #00DB00;
   margin-bottom: 2rem;
   font-size: 2em;
 }
@@ -154,17 +154,17 @@ body {
 
 .btn-secondary {
   background: #fff;
-  color: #10C46D;
-  border: 2px solid #10C46D;
+  color: #00DB00;
+  border: 2px solid #00DB00;
   padding: 0.6rem 1.5rem;
   border-radius: 20px;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 900;
 
 }
 
 .btn-secondary:hover {
-  background: #10C46D;
+  background: #00DB00;
   color: #fff;
 }
 
@@ -176,7 +176,7 @@ body {
 }
 
 .how-it-works h2 {
-  color: #10C46D;
+  color: #00DB00;
   text-align: center;
   margin-bottom: 1.8rem;
   font-size: 2em;
@@ -187,7 +187,7 @@ body {
   justify-content: center;
   gap: 4em;
   flex-wrap: wrap;
-  border: 1.5px solid #10C46D;
+  border: 1.5px solid #00DB00;
  
 }
 
@@ -252,7 +252,7 @@ margin-top: 10em;
 .contact-card h3, .signup-card h3 {
   margin-top: 0;
   margin-bottom: 1.2rem;
-  color: #16C60C;
+  color: #00DB00;
   font-size: 1.3rem;
 }
 .contact-card p {
@@ -282,7 +282,7 @@ padding: 1em 2em;
 }
 
 .signup-btn.trader, .signup-btn.upcycler {
-  background: #10C46D;
+  background: #00DB00;
   color: #fff;
 }
 
@@ -308,11 +308,11 @@ padding: 1em 2em;
 }
 
 .signup-input:focus {
-  border: 1.5px solid #10C46D;
+  border: 1.5px solid #00DB00;
 }
 
 .signup-submit {
-  background: #10C46D;
+  background: #00DB00;
   color: #fff;
   border: none;
   border-radius: 18px;
@@ -325,7 +325,7 @@ padding: 1em 2em;
 }
 
 .signup-submit:hover {
-  background: #0e9e57;
+  background: #00DB00;
 }
 
 .signup-note {
@@ -361,7 +361,7 @@ padding: 1em 2em;
 .footer-logo {
   font-weight: bold;
   font-size: 1.3rem;
-  color: #10C46D;
+  color: #00DB00;
   letter-spacing: 1px;
 }
 
@@ -384,7 +384,7 @@ padding: 1em 2em;
 
 .footer-bottom {
   font-size: 0.92rem;
-  color: #7bdba5;
+  color: #00DB00;
 }
 
 
