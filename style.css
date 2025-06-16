@@ -19,20 +19,20 @@ body {
 
 .header {
 
-  /* background-color: white; */
+  background-color: white;
   width: 100%;
   height: 50px;
   padding: -50px;
-  position: sticky;
+  position: fixed;
   z-index: 100;
-  margin-top: 1%;
+  margin-top: 0%;
 }
 
 #logo {
   position:staticy;
   width: 8%;
   height: 18%;
-  margin-top: -3.5%;
+  margin-top: -3%;
   /* font-weight: bold;
   font-size: 1.5rem;
   color: #00DB00;
@@ -42,8 +42,8 @@ body {
 
 
 .nav {
-  background-color: white;
-  ;
+  /* background-color: white; */
+  /* ; */
   display: flex;
   gap: 1.5rem;
   margin-top: 0.5rem;
@@ -54,7 +54,7 @@ body {
   color: #222;
   font-weight: 500;
   transition: color 0.2s;
-  margin-top: -5%;
+  margin-top: -8%;
 }
 
 .nav a:hover {
