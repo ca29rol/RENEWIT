@@ -85,7 +85,7 @@ body {
 }
 
 .hero-content {
-  position: relative;
+  position:relative;
   z-index: 1;
   padding: 3rem 0;
 }
